@@ -486,7 +486,6 @@ button:hover {
   width: 100%;
   display: flex;
   justify-content: center;
-  transform: scale(1.2);
 }
 
 .footer__social-icons {
